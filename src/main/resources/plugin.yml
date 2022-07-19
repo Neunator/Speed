@@ -1,0 +1,7 @@
+name: Speed10
+version: '${project.version}'
+main: aysu.de.neunator.De.Neunator
+api-version: 1.19
+
+commands:
+  start:
